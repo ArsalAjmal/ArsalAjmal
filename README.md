@@ -68,7 +68,7 @@
 </div>
 
 ###
-
+![snake gif](https://github.com/ArsalAjmal/ArsalAjmal/blob/output/github-snake-dark.svg)
 <div align="center">
   <a href="https://open.spotify.com/user/31pj7qsi4xacxrvbj5gohovd6woa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pj7qsi4xacxrvbj5gohovd6woa&count=1" alt="Spotify recently played"  />
