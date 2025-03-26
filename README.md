@@ -69,12 +69,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArsalAjmal/ArsalAjmal/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31pj7qsi4xacxrvbj5gohovd6woa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pj7qsi4xacxrvbj5gohovd6woa&count=1" alt="Spotify recently played"  />
