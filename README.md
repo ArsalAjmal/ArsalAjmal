@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Arsal, a 4th-semester BS Computer Science student passionate about software development. Currently, I'm working with Flutter, building dynamic applications. I have experience in C++, C#, Firebase, and SQL Server 2022, and I'm also diving into Assembly. Cybersecurity intrigues me, and I'm always eager to explore new technologies. Check out my projects on GitHub! 🚀</h2>
+<h2 align="left">👋 Hi, I'm Arsal, Welcome to my profile! Check out my projects on GitHub! 🚀</h2>
 
 ###
 
